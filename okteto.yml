@@ -4,6 +4,7 @@ build:
   frontend:
     context:
 deploy:
+  -
 dev:
   api:
     command: ["bash"]

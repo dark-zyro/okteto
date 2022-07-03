@@ -1,6 +1,6 @@
 build:
   api:
-    context: api
+    context:
   frontend:
     context:
 deploy:

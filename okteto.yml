@@ -2,9 +2,8 @@ build:
   api:
     context: api
   frontend:
-    context: frontend
+    context:
 deploy:
-  -
 dev:
   api:
     command: ["bash"]
